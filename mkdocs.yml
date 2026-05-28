@@ -1,7 +1,7 @@
 site_name: EmbedIDS, Cybersecurity for Embedded Systems 
 site_author: Seyed Amir Alavi
-site_url: https://embedids.samiralavi.io/ 
-repo_url: https://github.com/samiralavi/embedids
+site_url: http://embedids.linuscent.com/
+repo_url: https://github.com/Linuscent/EmbedIDS
 docs_dir: "docs"
 theme:
   name: material
@@ -52,7 +52,7 @@ extra:
     provider: mike
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/samiralavi/embedids
+      link: https://github.com/Linuscent/EmbedIDS
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/embedids
   analytics:
@@ -105,13 +105,12 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - git-committers:
-      repository: samiralavi/embedids
+      repository: Linuscent/EmbedIDS
       branch: main
 nav:
   - "index.md"
   - "quickstart.md"
   - "tutorial.md"
-  - Blog: "https://blog.embedids.samiralavi.com"
 
 extra_css:
   - assets/stylesheets/extra.css

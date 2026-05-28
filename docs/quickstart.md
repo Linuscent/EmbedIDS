@@ -5,7 +5,7 @@ Get up and running with EmbedIDS in 5 minutes!
 ## Installation
 
 ```bash
-git clone https://github.com/samiralavi/EmbedIDS.git
+git clone https://github.com/Linuscent/EmbedIDS.git
 cd EmbedIDS
 mkdir build && cd build
 cmake ..

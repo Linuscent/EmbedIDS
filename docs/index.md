@@ -13,7 +13,7 @@ hide:
 **🚀 New to EmbedIDS?** 
 - **[Quick Start Guide](quickstart.md)** - Get running in 5 minutes
 - **[Complete Tutorial](tutorial.md)** - Comprehensive learning guide
-- **[Examples](https://github.com/samiralavi/EmbedIDS/tree/main/examples)** - Ready-to-run code samples
+- **[Examples](https://github.com/Linuscent/EmbedIDS/tree/main/examples)** - Ready-to-run code samples
 
 ---
 
