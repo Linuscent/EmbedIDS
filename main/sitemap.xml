@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://embedids.samiralavi.io/main/</loc>
-         <lastmod>2025-09-17</lastmod>
+         <loc>http://embedids.linuscent.com/main/</loc>
+         <lastmod>2026-05-28</lastmod>
     </url>
     <url>
-         <loc>https://embedids.samiralavi.io/main/quickstart/</loc>
-         <lastmod>2025-09-17</lastmod>
+         <loc>http://embedids.linuscent.com/main/quickstart/</loc>
+         <lastmod>2026-05-28</lastmod>
     </url>
     <url>
-         <loc>https://embedids.samiralavi.io/main/tutorial/</loc>
-         <lastmod>2025-09-17</lastmod>
-    </url>
-    <url>
-         <loc>https://embedids.samiralavi.io/main/blog/</loc>
-         <lastmod>2025-09-17</lastmod>
+         <loc>http://embedids.linuscent.com/main/tutorial/</loc>
+         <lastmod>2026-05-28</lastmod>
     </url>
 </urlset>
