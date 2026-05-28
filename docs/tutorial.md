@@ -41,7 +41,7 @@ embedids_cleanup(&context);
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/samiralavi/EmbedIDS.git
+git clone https://github.com/Linuscent/EmbedIDS.git
 cd EmbedIDS
 ```
 

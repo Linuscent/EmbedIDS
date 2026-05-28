@@ -97,7 +97,7 @@ target_link_libraries(your_app EmbedIDS::embedids)
 include(FetchContent)
 FetchContent_Declare(
     EmbedIDS
-    GIT_REPOSITORY https://github.com/samiralavi/EmbedIDS.git
+    GIT_REPOSITORY https://github.com/Linuscent/EmbedIDS.git
     GIT_BRANCH main # Fetch the main branch
 )
 FetchContent_MakeAvailable(EmbedIDS)
